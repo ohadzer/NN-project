@@ -1,0 +1,6 @@
+classes= 80
+train  = /content/drive/MyDrive/test2017/trainvalno5k.txt
+valid  = /content/drive/MyDrive/test2017/testdev2017.txt
+names = data/coco.names
+backup = backup
+eval=coco
